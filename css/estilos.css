@@ -1,0 +1,384 @@
+*{
+	margin: 0;
+	font-family: 'Calibri';
+}
+
+/*HEADER*/
+header{
+	background-color:#FAAACF;
+}
+.logoHeder{
+	width: 30%;
+	margin-top: 20px;
+	margin-left: 12%;
+	margin-bottom: 19px;
+	display: inline-block;
+}
+.logoHeder img{
+	width: 50%;
+	display: inline-block;
+	border-radius: 8px;
+}
+.divMenu{
+	width: 54%;
+	display: inline-block;
+	text-align: right;
+	position: relative;
+}
+.vacio{
+	margin-left: 35%;
+}
+.ww{
+	margin-left: 3%;
+	font-size: 20px;
+}
+.espacio1{
+	height: 100px;
+}
+#a{
+	color: red;
+}
+.www{
+	width: 50%;
+	margin-left: 7%;
+	background-color: #EE7D4A;
+}
+.slogan{
+	position: absolute;
+	width: 77%;
+	left: 0%;
+	text-align: left;
+}
+.divMenu > nav{
+}
+.contcate{
+	background-image: url("../img/cat3.jpg");
+	height: 700px;
+	position: relative;
+	width: 100%;
+}
+#tit{
+	text-align: left;
+	font-size: 30px;
+	font-family: 'Playball',cursive;
+}
+.precio{
+	width: 22%;
+	margin: auto;
+	font-size: 35px;
+	margin-left: 72%;
+	color: #000;
+	border-radius: 7px;
+}
+#subt{
+	font-size: 25px;
+	color: #000;
+}
+.preciobtn{
+	width: 22%;
+	background-color: #4dff4d;
+	margin: auto;
+	font-size: 35px;
+	margin-left: 72%;
+	color: #000;
+	border-radius: 7px;
+	border: 2px solid #000;
+}
+.correo{
+	position: absolute;
+	width: 50%;
+	left: 49%;
+
+}
+.menu li{
+	width: 19%;
+	display: inline-block;
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	text-decoration: none;
+}
+.link{
+	color: #000;
+	text-decoration: none;
+	font-size: 25px;
+	text-align: center;
+	font-family: 'Bad Script', cursive;
+}
+.link:hover{
+	color: #000;
+}
+.car div{
+	height: 500px;
+}
+.car img{
+	width: 100%;
+	margin: auto;
+}
+.pcar{
+	margin: auto;
+	width: 70%;
+}
+.carousel.control{
+	opacity: 0;
+	color: #000;
+}
+.esp{
+	height: 50px;
+}
+.titulo{
+	text-align: center;
+	font-family: 'Playball',cursive;
+}
+.titulo h1{
+	font-size: 70px;
+	color: #720062;
+}
+.correo{
+	color: #000;
+	font-family: 'Bad Script', cursive;
+	font-size: 20px;
+}
+/*HEADER*/
+
+
+
+
+/*CONOCENOS*/
+.conocenos{
+	width: 62%;
+	text-align: justify;
+	margin: auto;
+}
+/*CONOCENOS*/
+
+
+/*section index*/
+.producto{
+	width: 90%;
+	background-color: #F5D1DC;
+	border-radius: 7px;
+	margin: auto;}
+.produl{
+	margin: 0px;
+	padding: 15px;
+}
+.contimg{
+	width: 100%;
+}
+.imgprod{
+	border-radius: 7px;
+	width: 100%;
+	border: 1px solid #000;
+}
+.titDiv{
+	text-align: center;
+	font-family: 'Playball',cursive;
+	font-size: 50px;
+}
+.seccion{
+	list-style-type: none;
+	width: 18%;
+	margin-right: 1%;
+	display: inline-block;
+	text-align: justify;
+	padding: 18px;
+	position: relative;
+	height: auto;
+}
+.desc{
+	position: absolute;
+	width: 99%;
+	height: 109px;
+	top: -110%;
+	left: -11%;
+}
+.btncar{
+	width: 100%;
+	font-size: 22px;
+	color: #fff;
+	height: 50px;
+	background-color: #0061B8;
+	border: 1px solid #0061B8;
+	border-radius: 7px;
+}
+/*section index*/
+
+/*LOGIN*/
+
+.cont{
+	background-image: url("../img/fondo.jpg");
+	height: 700px;
+	position: relative;
+	width: 100%;
+}
+.blanco{
+	position: absolute;
+	background-color: #fff;
+	width: 30%;
+	top: 200PX;
+	left: 37%;
+	padding: 10px 10px;
+	border-radius: 7px;
+}
+.blanco1{
+	position: absolute;
+	background-color: #fff;
+	width: 30%;
+	top: 90PX;
+	left: 37%;
+	padding: 10px 10px;
+	border-radius: 7px;
+}
+.blanco3{
+	position: absolute;
+	background-color: #722A1E;
+	width: 40%;
+	top: 100PX;
+	left: 35%;
+	padding: 10px 10px;
+	border-radius: 7px;
+}
+.forcat{
+	background-color: #D8CFBC;
+	margin: auto;
+	padding: 10px 10px;
+}
+#cat{
+	font-family: 'Playball',cursive;
+	border: 1px solid #000;
+}
+.q{
+	text-align: center;
+	font-family: 'Playball',cursive;
+}
+.q > h1{
+	font-size: 70px;
+}
+.forcat > a{
+	margin-left: 10px;
+	text-align: center;
+}
+.logincat{
+	background-color: #FAAACF;
+	border: 1px solid #000; 
+	width: 70%;
+	height: 70px;
+	text-align: center;
+	margin: auto;
+	
+}
+#cat{
+	font-size: 40px;
+	margin-left: 15%;
+}
+.qq{
+	margin: auto;
+}
+.for{
+	background-color: #D8CFBC;
+	margin: auto;
+	padding: 10px 10px;
+}
+.for > a{
+	margin-left: 10px;
+}
+.login{
+	background-color: #F47B46; 
+	width: 50%;
+	text-align: center;
+	margin-left: 25px;
+}
+/*LOGIN*/
+
+
+/*REGISTRO*/
+.combo{
+	width: 32.6%;
+	display: inline-block;
+}
+.cont2{
+	background-image: url("../img/fondo.jpg");
+	height: 850px;
+	position: relative;
+	width: 100%;
+}
+
+
+/*REGISTRO*/
+
+
+/*FOOTER*/
+footer{
+	background-color:#FAAACF;
+	font-size: 17px;
+}
+.f{
+	width: 90%;
+	margin-left: 9%;
+}
+.foot{
+	width: 32%;
+	display: inline-block;
+	padding: 26px;
+	position: relative;
+}
+
+.contac{
+	width: 49%;
+	margin: 0;
+	display: inline-block;
+	padding-left: 35%;
+}
+.contac1{
+	width: 30%;
+	margin: 0;
+	display: inline-block;
+	position: absolute;	
+}
+.contac2{
+	width: 30%;
+	margin: 0;
+	display: inline-block;
+	position: absolute;	
+	left: 150px;
+}
+.contac > ul{
+	margin: auto;
+	padding: 0;
+}
+.letra{
+	font-family: 'Playball',cursive;
+}
+.icon1{
+	width: 100%;
+	display: inline-block;
+}
+.icon2{
+	width: 80%;
+	display: inline-block;
+	border-radius: 100%;
+}
+.icon3{
+	width: 82%;
+	margin: 0;
+	display: inline-block;
+	position: absolute;
+}
+.foot ul{
+	list-style-type: none;
+	margin: 0px;
+}
+.redes{
+	height: 121px;
+}
+.redes > ul{
+	margin-top: 10px;
+}
+.line{
+	width: 1px;
+	background-color: gray;
+	display: inline-block;
+	height: 100px;
+}
+/*FOOTER*/
